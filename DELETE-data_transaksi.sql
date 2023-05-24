@@ -1,0 +1,1 @@
+DELETE FROM transaksi WHERE no_transaksi = 'TR10';

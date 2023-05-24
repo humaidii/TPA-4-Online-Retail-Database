@@ -1,0 +1,1 @@
+SELECT kode_barang, nama_barang, harga_barang FROM barang WHERE kode_barang = 'BR01' AND harga_barang = 10000;

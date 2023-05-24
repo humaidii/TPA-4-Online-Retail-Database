@@ -1,0 +1,1 @@
+DELETE FROM pelanggan WHERE kode_pelanggan = 'PL10';

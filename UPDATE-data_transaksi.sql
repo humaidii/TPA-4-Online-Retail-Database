@@ -1,0 +1,1 @@
+UPDATE  transaksi  SET  kode_barang = 'BR05' WHERE no_transaksi='TR01';

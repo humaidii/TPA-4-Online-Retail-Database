@@ -1,0 +1,1 @@
+SELECT nama_kasir, jk_kasir, no_hp FROM `kasir` WHERE jk_kasir="pria";

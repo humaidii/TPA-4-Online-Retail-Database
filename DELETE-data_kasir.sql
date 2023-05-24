@@ -1,0 +1,1 @@
+DELETE FROM kasir WHERE kode_kasir = 'KS10';

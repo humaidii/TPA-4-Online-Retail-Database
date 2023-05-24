@@ -1,0 +1,1 @@
+UPDATE  kasir  SET  nama_kasir ='Inka' WHERE nama_kasir='Intan';

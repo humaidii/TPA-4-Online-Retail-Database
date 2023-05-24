@@ -1,0 +1,1 @@
+UPDATE barang SET nama_barang = 'Mouse Pad', harga_barang = 5000 WHERE kode_barang = 'BR07';
